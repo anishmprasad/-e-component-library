@@ -4,16 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anishmprasad/-e-component-library.git"
+    "url": "git+https://github.com/anishmprasad/e-component-library.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anishmprasad/-e-component-library/issues"
+    "url": "https://github.com/anishmprasad/e-component-library/issues"
   },
-  "homepage": "https://github.com/anishmprasad/-e-component-library#readme"
+  "homepage": "https://github.com/anishmprasad/e-component-library#readme"
 }
